@@ -24,6 +24,10 @@ body {
     display: block;
 }
 
+.profile-pic:hover {
+    box-shadow: 0 0 2px 3px DarkOrchid;
+}
+
 button {
     padding: 10px;
     cursor: pointer;
@@ -35,6 +39,7 @@ button {
 
 button:hover {
     background: #0056b3;
+    box-shadow: 0 0 2px 1px Black;
 }
 
 ul {
@@ -48,7 +53,7 @@ li {
 
 .dark-mode {
     background-color: #333;
-    color: white;
+    color: black;
 }
 
 .dark-mode .container {
