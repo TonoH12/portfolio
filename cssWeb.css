@@ -34,14 +34,15 @@ button {
     padding: 10px;
     cursor: pointer;
     border: none;
-    background: #007bff;
+    background: MediumSlateBlue;
     color: white;
     border-radius: 5px;
+    
 }
 
 button:hover {
     background: #0056b3;
-    box-shadow: 0 0 2px 1px Black;
+    box-shadow: 0 0 2px 1px MediumPurple;
 }
 
 ul {
