@@ -13,11 +13,11 @@ body {
     max-width: 800px;
     margin: auto;
     padding: 20px;
-    background-image: circle2;
-    background-blend-mode: overlay;
     transition: background;
     transition-duration: 3s;
     background: white;
+    background-image: circle2;
+    background-blend-mode: overlay;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
@@ -68,10 +68,10 @@ li {
 }
 
 .dark-mode .container {
-    background-image: Circle;
-    background-blend-mode: overlay;
     transition: background;
     transition-duration: 3s;
     background: #708090;
+    background-image: Circle;
+    background-blend-mode: overlay;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
