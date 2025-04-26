@@ -42,7 +42,7 @@ button {
 
 button:hover {
     background: MediumSlateBlue;
-    box-shadow: 0 0 2px 7px MediumPurple;
+    box-shadow: 0 0 15px 7px MediumPurple;
 }
 
 ul {
@@ -55,11 +55,11 @@ li {
 }
 
 .dark-mode {
-    background-color: #333333;
-    color: black;
+    background-color: LightSlateGrey;
+    color: white;
 }
 
 .dark-mode .container {
-    background: #444444;
+    background: SlateGrey;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
