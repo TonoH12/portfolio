@@ -13,7 +13,7 @@ body {
     max-width: 800px;
     margin: auto;
     padding: 20px;
-    background-image: url("circle2");
+    background-image: url("circle2.png");
     transition: background;
     transition-duration: 3s;
     background: white;
@@ -68,7 +68,7 @@ li {
 }
 
 .dark-mode .container {
-    background-image: url("Circle");
+    background-image: url("Circle.png");
     transition: background;
     transition-duration: 3s;
     background: #708090;
