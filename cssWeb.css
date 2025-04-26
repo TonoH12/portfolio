@@ -55,11 +55,11 @@ li {
 }
 
 .dark-mode {
-    background-color: #5b4eb1;
+    background-color: #a9b3bc;
     color: white;
 }
 
 .dark-mode .container {
-    background: DarkSlateBlue;
+    background: #708090;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
