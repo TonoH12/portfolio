@@ -41,8 +41,7 @@ button {
 }
 
 button:hover {
-    background: #0056b3;
-    box-shadow: 0 0 2px 1px MediumPurple;
+    box-shadow: 0 0 2px 7px MediumPurple;
 }
 
 ul {
