@@ -11,6 +11,8 @@ body {
     max-width: 800px;
     margin: auto;
     padding: 20px;
+    transition: background;
+    transition-duration: 3s;
     background: white;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -60,6 +62,8 @@ li {
 }
 
 .dark-mode .container {
+    transition: background;
+    transition-duration: 3s;
     background: #708090;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
