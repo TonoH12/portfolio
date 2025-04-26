@@ -1,5 +1,5 @@
 function toggleDarkMode() {
-    log.debug("Changing the theme");
+    console.log("Changing the theme");
     document.body.classList.toggle("dark-mode");
-    log.debug("Theme changed");
+    console.log("Theme changed");
 }
