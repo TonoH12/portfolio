@@ -16,8 +16,6 @@ body {
     transition: background;
     transition-duration: 3s;
     background: white;
-    background-image: url("circle2.png");
-    background-blend-mode: overlay;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
@@ -71,7 +69,6 @@ li {
     transition: background;
     transition-duration: 3s;
     background: #708090;
-    background-image: url("Circle.png");
-    background-blend-mode: overlay;
     box-shadow: 0 0 10px rgba(255,255,255,0.1);
 }
+
